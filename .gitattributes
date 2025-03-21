@@ -1,4 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=java
 *.cs linguist-language=java
 *.ico linguist-language=java
