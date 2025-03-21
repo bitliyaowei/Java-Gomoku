@@ -7,3 +7,6 @@
 *.sql linguist-language=Java
 *.uml linguist-language=Java 
 *.cmd linguist-language=Java
+*.png linguist-language=Java
+*.ico linguist-language=Java
+*.pdf linguist-language=Java
